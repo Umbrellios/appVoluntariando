@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/web/altera_instituicao.jsp</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/control/servlets/ServletCadastraAdministrador.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/web/dados_instituicao.jsp</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/model/bean/Estado.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/control/servlets/ServletAtualizaEvento.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/control/servlets/ServletCadastraEvento.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/control/servlets/ServletDadosEvento.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/control/servlets/ServletAtualizaInstituicao.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/model/dao/DaoEvento.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/model/dao/DaoUsuario.java</file>
+            <file>file:/C:/Users/Home/Documents/Projetos_NetBeans/appVoluntariando/src/java/control/servlets/ServletExcluirEvento.java</file>
+        </group>
+    </open-files>
+</project-private>
